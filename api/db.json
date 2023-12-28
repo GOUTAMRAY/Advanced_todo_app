@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Gou to school",
+      "type": "Pending"
+    },
+    {
+      "id": 2,
+      "title": "Play football",
+      "type ": "Pending"
+    },
+    {
+      "title": "run",
+      "type": "Completed",
+      "id": 3
+    },
+    {
+      "title": "bun",
+      "type": "Pending",
+      "id": 4
+    },
+    {
+      "title": "gun",
+      "type": "Deleted",
+      "id": 5
+    },
+    {
+      "title": "khaon",
+      "type": "Deleted",
+      "id": 6
+    },
+    {
+      "title": "alo",
+      "type": "Completed",
+      "id": 7
+    },
+    {
+      "title": "potol",
+      "type": "Pending",
+      "id": 8
+    },
+    {
+      "title": "vai tmi koi ",
+      "type": "Pending",
+      "id": 9
+    },
+    {
+      "title": "vai tmi koi ",
+      "type": "Pending",
+      "id": 10
+    },
+    {
+      "title": "",
+      "type": "Completed",
+      "id": 11
+    },
+    {
+      "title": "ftrjfgkj",
+      "type": "Completed",
+      "id": 12
+    }
+  ]
+}
